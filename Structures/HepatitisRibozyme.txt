@@ -1,0 +1,8 @@
+..(((((((.........(((........))))))))))......(((((((((((.(...).))))))).))))..............
+https://rnacentral.org/rna/URS00006C1D09/9606
+Hepatitis D virus HDV ribozyme sequence URS00006C1D09_9606
+89 nucleotides 1 database (RiboCentre)  Found in 1 other species
+AUGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACAUUCCGAAGGGACCGUCCCUUCGGUAAUGGCGAAUGGGACCCA
+Database	Description
+Ribocentre	Hepatitis D virus HDV ribozyme sequence
+ Ribocentre: seq208322

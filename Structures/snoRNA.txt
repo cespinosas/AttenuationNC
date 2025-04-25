@@ -1,0 +1,8 @@
+.(((.(((............(((((((...........)))))))..........))).))).........(((((.............))))).......
+https://rnacentral.org/rna/URS00021F179B/9541
+Macaca fascicularis (Crab-eating macaque) small nucleolar RNA, H/ACA box 1B (ENSMFAG00000050174.1) URS00021F179B_9541
+101 nucleotides 1 database (Ensembl)  Found in 0 other species
+AACCUCAUUCUAGAUGAGAAUGGGCAUUGUUGAUCAUGGCGUCCAAAAAUAGUUAAUGUGGCUAAACUGUUGCAGUGGUGACAAUGAGACCUGUAACAUUU
+Database	Description
+Ensembl	Macaca fascicularis (Crab-eating macaque) small nucleolar RNA, H/ACA box 1B
+ transcript ENSMFAT00000089333 from SNORA1B gene ENSMFAG00000050174.1

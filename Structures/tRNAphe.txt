@@ -1,0 +1,33 @@
+(((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))).
+https://rnacentral.org/rna/URS00005AA258/511145
+Escherichia coli str. K-12 substr. MG1655 tRNA-Phe (GAA) (tRNA-Phe-GAA-1-1, tRNA-Phe-GAA-1-2) URS00005AA258_511145
+76 nucleotides 3 databases (ENA, GtRNAdb, PDBe) Found in 6,579 other species  
+sncRNA tRNA phenylalanyl tRNA
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+Database	Description
+PDBe	E-Site tRNA-Phe or A-Site tRNA-Phe from Escherichia coli str. K-12 substr. MG1655 (PDB 4P6F, chain QW)
+ PDB: 4P6F, chain QW 
+ PDBe | RCSB PDB | PDBj | NDB | RNA 3D Hub
+ Structure title: Crystal structure of the peptolide 12C bound to bacterial ribosome
+ Method: X-RAY DIFFRACTION | resolution: 3.6 Å | release date: 2014-10-01
+ No modified nucleotides.
+PDBe	E-Site tRNA-Phe or A-Site tRNA-Phe from Escherichia coli str. K-12 substr. MG1655 (PDB 4P6F, chain QY)
+ PDB: 4P6F, chain QY 
+ PDBe | RCSB PDB | PDBj | NDB | RNA 3D Hub
+ Structure title: Crystal structure of the peptolide 12C bound to bacterial ribosome
+ Method: X-RAY DIFFRACTION | resolution: 3.6 Å | release date: 2014-10-01
+ No modified nucleotides.
+PDBe	E-Site tRNA-Phe or A-Site tRNA-Phe from Escherichia coli str. K-12 substr. MG1655 (PDB 4P6F, chain XW)
+ PDB: 4P6F, chain XW 
+ PDBe | RCSB PDB | PDBj | NDB | RNA 3D Hub
+ Structure title: Crystal structure of the peptolide 12C bound to bacterial ribosome
+ Method: X-RAY DIFFRACTION | resolution: 3.6 Å | release date: 2014-10-01
+ No modified nucleotides.
+PDBe	E-Site tRNA-Phe or A-Site tRNA-Phe from Escherichia coli str. K-12 substr. MG1655 (PDB 4P6F, chain XY)
+ PDB: 4P6F, chain XY 
+ PDBe | RCSB PDB | PDBj | NDB | RNA 3D Hub
+ Structure title: Crystal structure of the peptolide 12C bound to bacterial ribosome
+ Method: X-RAY DIFFRACTION | resolution: 3.6 Å | release date: 2014-10-01
+ No modified nucleotides.
+GtRNAdb	Escherichia coli str. K-12 substr. MG1655 tRNA-Phe (GAA)
+ gtRNAdb: tRNA-Phe-GAA-1-1

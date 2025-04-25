@@ -1,0 +1,12 @@
+.(((((..........(((.......))).)))))...(((((..........)))))...........
+https://rnacentral.org/rna/URS0002617729/9606
+RNA CPEB3 ribozyme from Homo sapiens (PDB 7QR4, chain B) URS0002617729_9606
+69 nucleotides 1 database (PDBe)  Found in 0 other species
+GGGGGCCACAGCAGAAGCGUUCACGUCGCAGCCCCUGUCAGCCAUUGCACUCCGGCUGCGAAUUCUGCU
+Database	Description
+PDBe	RNA CPEB3 ribozyme from Homo sapiens (PDB 7QR4, chain B)
+ PDB: 7QR4, chain B 
+ PDBe | RCSB PDB | PDBj | NDB | RNA 3D Hub
+ Structure title: human CPEB3 HDV-like ribozyme
+ Method: X-RAY DIFFRACTION | resolution: 2.83 Å | release date: 2022-10-26
+ No modified nucleotides.

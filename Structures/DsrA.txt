@@ -1,0 +1,8 @@
+.(((((((.....)))))))...(((((((((((((.....)))))))).)).))).((((((.((....))..)))))).
+https://rnacentral.org/rna/URS00001101AC/209261
+Salmonella enterica subsp. enterica serovar Typhi str. Ty2 DsrA RNA URS00001101AC_209261
+81 nucleotides 1 database (ENA)  Found in 1 other species
+CACAUCAGAUUUCCUGGUGUAACGAAUUUUCAAGUGCUUCUUGCAUAAGCAAGUUUGAUCCCGACCCGUAGGGCCGGGAUU
+Database	Description
+ENA	Salmonella enterica subsp. enterica serovar Typhi str. Ty2 DsrA RNA
+ ENA: AE014613.1:994136..994216:misc_RNA
